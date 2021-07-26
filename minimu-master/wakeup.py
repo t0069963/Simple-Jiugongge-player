@@ -1,0 +1,4 @@
+import minimu
+
+
+minimu.wakeup()
